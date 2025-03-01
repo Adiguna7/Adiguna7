@@ -1,6 +1,6 @@
 Hi there 👋
 
-🌱 Justifelong learner on a journey to grow and improve, grateful for the chance to collaborate with amazing people in the software engineering field.
+🌱 Just lifelong learner on a journey to grow and improve, grateful for the chance to collaborate with amazing people in the software engineering field.
 
 🧠 Background & Experience:
 
@@ -11,5 +11,6 @@ Hi there 👋
 🛠️ Exploring SRE & infrastructure, working with cloud infrastructure, Microservice, Kubernetes, CI/CD, and distributed system & reliability.
 
 💡 Always trying to get better and happy to learn from others.
+
 
 > Growth isn’t about knowing everything — it’s about staying curious, being humble, and learning every day.
