@@ -8,4 +8,8 @@
 - Hands-on experience in the web scraping industry, working with scalable crawlers and data pipelines. 🕸️
 - Experience in SRE & infrastructure, working with cloud infrastructure, microservices, Kubernetes, CI/CD, and distributed systems & reliability. 🛠️
 
+
+Maintain [suryoadiguna.me](https://suryoadiguna.me) and all its subdomains.
+
+
 > Growth isn’t about knowing everything — it’s about staying curious, being humble, and learning every day.
